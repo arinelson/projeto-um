@@ -1,2 +1,3 @@
 # projeto-um
-Um repositório para fins didáticos
+
+Excluimos o que tinha antes para escrever isso que acabei de escrever.
